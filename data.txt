@@ -1,0 +1,38 @@
+{
+  "users": [
+    "admin"
+  ],
+  "expenses": {
+    "admin": [
+      {
+        "amount": 23232.0,
+        "category": "mslcnl",
+        "date": "2025-01-09 17:09:01"
+      },
+      {
+        "amount": 55553235262.0,
+        "category": "study",
+        "date": "2025-01-09 17:15:56"
+      },
+      {
+        "amount": 233.0,
+        "category": "study",
+        "date": "2025-01-09 17:16:07"
+      },
+      {
+        "amount": 10000000.0,
+        "category": "daily expenses",
+        "date": "2025-01-09 17:16:20"
+      }
+    ]
+  },
+  "budgets": {
+    "admin": 0
+  },
+  "categories": {
+    "admin": [
+      "study",
+      "daily expenses"
+    ]
+  }
+}
